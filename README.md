@@ -14,4 +14,4 @@ Project is created with:
 	
 ## Setup
 To run this project, just download index.html and index.js and run on local server. <br>
-The app can be seted here: https://secret-message-kappa-nine.vercel.app/index.html
+The app can be viewed here: https://secret-message-kappa-nine.vercel.app/index.html
